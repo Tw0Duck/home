@@ -25,7 +25,7 @@ export default function index() {
                 <div className='f1-subcont2'>
                     <img className='f1-subcont2-img' src="../assets/img/garotinho.png" alt=''/>
                     <div className='f1-subcont2-text'>
-                        <p className='subtext1'>“Agradeço muito à minha psicóloga por todo o trabalho que temos feito, pois tem me ajudado muito. Obrigada pela paciência e pelo comprometimento comigo! Você é demais!” </p>
+                        <p className='subtext1'>“Agradeço muito ao meu psicólogo por todo o trabalho que temos feito, pois tem me ajudado muito. Obrigada pela paciência e pelo comprometimento comigo! Você é demais!” </p>
                         <p className='subtext2'>Estefânia, 26 anos</p>
                     </div>
                 </div>
