@@ -16,10 +16,13 @@ export default function index() {
         <div className='f1'>
             <div className='f1-cont'>
                 <hr className='f1-top'/>
-                        <img className='f1-subcont-img' src="../assets/img/cabeça de pau" alt=''/>
-                        <p className='f1-subcont-text'>“Não é transportar o paciente para um impossível estado de felicidade, mas sim ajudá-lo a adquirir firmeza e paciência diante do sofrimento.”</p>
+                        <div className='f1-subcont'>
+                            <img className='f1-subcont-img' src="../assets/img/cabeça de pau" alt=''/>
+                             <p className='f1-subcont-text'>“Não é transportar o paciente para um impossível estado de felicidade, mas sim ajudá-lo a adquirir firmeza e paciência diante do sofrimento.”</p>
+                        </div>
+                <hr className="f1-top"/>         
             </div>
-                <hr className="f1-top"/>        
+                       
         </div>
             <div className='f1-cont2'>
                 <div className='f1-subcont2'>
